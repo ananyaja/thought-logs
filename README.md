@@ -7,8 +7,16 @@ A public collection of notes, mental models, and reflections documenting a trans
 * **A Digital Garden:** A space that evolves continuously as new insights emerge, old patterns are examined, and understanding deepens.
 
 ## Structure
-* `journal/` — Personal notes on moving from theory to practice and shedding the weight of the endless race.
-* `mental-models/` — Core realizations on isolation, shared knowledge, and building with intention.
-
+```
+thought-logs/
+├── README.md
+├── LICENSE
+├── journal/
+│   └── shifting-from-theory-to-practice.md
+├── mental-models/
+│   └── building-in-public.md
+└── framework/
+    └── abundance-and-purpose-compass.md
+```
 ---
 *“Isolation is not innovation. Learning can never be a lonely race.”*
