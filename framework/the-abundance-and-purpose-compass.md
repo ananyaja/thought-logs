@@ -23,5 +23,4 @@ An operational framework for intellectual sovereignty, resilient execution, and 
 *“I do not need to be perfect; I just need to be a little better than I was yesterday. Learning is a gradient descent, not an instant jump.”*# The Abundance and Purpose Compass
 
 
----
-*“I do not need to be perfect; I just need to be a little better than I was yesterday. Learning is a gradient descent, not an instant jump.”*[cite: 4]
+
